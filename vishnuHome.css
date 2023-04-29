@@ -1,0 +1,39 @@
+#introduction {
+    padding: 30px;
+    width: 75%;
+    max-width: 900px;
+    text-align: left;
+    margin: 20px auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 10px;
+    word-spacing: 1px;
+    line-height: 30px;
+  }
+  .a {
+    text-align: center;
+  }
+  #awarenessphotos {
+    display: flex;
+    width: fit-content;
+    justify-content: space-around;
+  }
+  
+  #awarenessphotos img {
+    width: 30%;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 15px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  #Why {
+    padding: 30px;
+    width: 75%;
+    max-width: 900px;
+    text-align: center;
+    margin: 20px auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    word-spacing: 1px;
+    line-height: 30px;
+  }
